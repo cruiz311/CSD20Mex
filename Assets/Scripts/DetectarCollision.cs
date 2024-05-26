@@ -1,7 +1,8 @@
 using UnityEngine;
-
+using TMPro;
 public class DetectarCollision : MonoBehaviour
 {
+    public TextMeshProUGUI texto;
     void Update()
     {
         // Detectar toque en la pantalla
@@ -11,18 +12,17 @@ public class DetectarCollision : MonoBehaviour
             Vector2 touchPosition = Input.GetTouch(0).position;
 
             // Convertir posición de pantalla a rayo en el mundo
-            Ray ray = Camera.main.ScreenPointToRay(touchPosition);
-            RaycastHit hit;
+            Vector3 worldPoint = Camera.main.ScreenToWorldPoint(touchPosition);
 
-            // Comprobar si el rayo colisiona con un objeto
-            if (Physics.Raycast(ray, out hit))
+            // Comprobar si el rayo colisiona con un objeto 2D
+            RaycastHit2D hit = Physics2D.Raycast(worldPoint, Vector2.zero);
+
+            // Comprobar si el objeto tiene el tag "objeto"
+            if (hit.collider != null && hit.collider.CompareTag("Estado"))
             {
-                // Comprobar si el objeto tiene el tag "objeto"
-                if (hit.collider.CompareTag("objeto"))
-                {
-                    // Imprimir mensaje en la consola
-                    Debug.Log(hit.collider.name);
-                }
+                texto.text = hit.collider.name;
+                // Imprimir mensaje en la consola
+                Debug.Log(hit.collider.name);
             }
         }
     }
