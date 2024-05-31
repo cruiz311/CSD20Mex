@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using TreeEditor;
 using UnityEditor;
 using UnityEngine;
 
@@ -17,7 +18,6 @@ public class CreateNewPlayer : MonoBehaviour
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
-            CrearNuevoJugador();
         }
         else if (instance != this)
         {
@@ -25,10 +25,9 @@ public class CreateNewPlayer : MonoBehaviour
         }
     }
 
-    private void CrearNuevoJugador()
+    public void CrearNuevoJugador()
     {
         nuevoJugador = ScriptableObject.CreateInstance<PlayerSO>();
-        Perfiles.Add(nuevoJugador);
         nuevoJugador.name = "NuevoUsuario";
     }
 
@@ -44,21 +43,16 @@ public class CreateNewPlayer : MonoBehaviour
     {
         string listPath = Path.Combine(BASE_PATH, "Perfiles.json");
 
-        List<string> perfilesJson = new List<string>();
-
-        foreach (PlayerSO perfil in Perfiles)
+        if (File.Exists(listPath))
         {
-            string json = JsonUtility.ToJson(perfil);
-            perfilesJson.Add(json);
+            string jsonData = File.ReadAllText(listPath);
+            Perfiles = JsonUtility.FromJson<CreateNewPlayer>(jsonData).Perfiles;
         }
-        string jsonCompleto = string.Join("\n", perfilesJson.ToArray());
 
-        File.WriteAllText(listPath, jsonCompleto);
+        Perfiles.Add(nuevoJugador);
+        string json = JsonUtility.ToJson(Perfiles, true);
+
+        File.WriteAllText(listPath, json);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }

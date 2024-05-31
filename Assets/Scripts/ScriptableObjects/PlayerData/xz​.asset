@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2c0064f2f1951a844b883b4bf62f8c57, type: 3}
-  m_Name: "Juan\u200B"
+  m_Name: "xz\u200B"
   m_EditorClassIdentifier: 
-  nombre: "Juan\u200B"
-  apellido: "Pedro\u200B"
-  estadoPlayer: {fileID: 11400000, guid: ecd143fc8736d934cb97ac21a6b7d3ea, type: 2}
+  nombre: "xz\u200B"
+  apellido: "zxcz\u200B"
+  estadoPlayer: {fileID: 11400000, guid: 64431c9c83aeb9146a0c01c389814215, type: 2}
   idioma: Espanol
