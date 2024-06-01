@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c0064f2f1951a844b883b4bf62f8c57, type: 3}
+  m_Name: "12312\u200B"
+  m_EditorClassIdentifier: 
+  nombre: "12312\u200B"
+  apellido: "213123123\u200B"
+  estadoPlayer: {fileID: 11400000, guid: dc9ddf233b7932848854351d9a0723e0, type: 2}
+  idioma: Espanol

@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 98718884}
   - component: {fileID: 98718883}
   m_Layer: 5
-  m_Name: ButtonRojo
+  m_Name: SaltarConversacion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -205,7 +205,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 98718884}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 748161938}
+        m_TargetAssemblyTypeName: Presentacion, Assembly-CSharp
+        m_MethodName: EndTextos
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Juego
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &98718884
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -432,6 +444,33 @@ MonoBehaviour:
     y los resultados obtenidos, asegurando que se cumplan los objetivos establecidos
     y se mantenga la confianza del equipo directivo. Tu liderazgo y habilidades de
     gesti\xF3n ser\xE1n cruciales para llevar al equipo a nuevas alturas."
+  - "Como director t\xE9cnico, tendr\xE1s la responsabilidad de planificar y supervisar
+    los entrenamientos del equipo. Esto incluye definir rutinas de entrenamiento,
+    evaluar el rendimiento de los jugadores y ajustar las t\xE1cticas seg\xFAn las
+    necesidades. La elaboraci\xF3n de estrategias de juego efectivas ser\xE1 esencial
+    para enfrentar a los rivales y asegurar la victoria en los partidos. Tu capacidad
+    para adaptarte a diferentes situaciones y rivales te permitir\xE1 destacar en
+    tu papel."
+  - "La gesti\xF3n de jugadores es una de las tareas m\xE1s importantes que tendr\xE1s.
+    Deber\xE1s asegurarte de mantener un buen ambiente de trabajo, motivar a los
+    jugadores y gestionar sus contratos de manera efectiva. Esto incluye negociar
+    renovaciones, manejar transferencias y fichajes, y garantizar que cada jugador
+    est\xE9 en las mejores condiciones para rendir al m\xE1ximo. Tu habilidad para
+    manejar estas situaciones influir\xE1 directamente en el \xE9xito del equipo."
+  - "La comunicaci\xF3n con la junta directiva es vital para tu \xE9xito como director
+    t\xE9cnico. Debes proporcionar informes regulares sobre el rendimiento del equipo,
+    los progresos alcanzados y las \xE1reas que necesitan mejoras. La transparencia
+    y la claridad en tus informes ayudar\xE1n a mantener la confianza de la directiva
+    y asegurar que todos est\xE9n alineados con los objetivos del equipo. Aseg\xFArate
+    de cumplir con las expectativas y justificar las decisiones tomadas."
+  - "Tu liderazgo ser\xE1 puesto a prueba en m\xFAltiples ocasiones. Tomar decisiones
+    cr\xEDticas en momentos clave del juego y durante la temporada ser\xE1 esencial
+    para el \xE9xito del equipo. Ya sea ajustando la alineaci\xF3n, cambiando la
+    estrategia en medio de un partido, o gestionando conflictos internos, tu habilidad
+    para liderar y tomar decisiones informadas marcar\xE1 la diferencia. \xA1Prep\xE1rate
+    para llevar a tu equipo a la cima del f\xFAtbol mexicano y dejar tu huella en
+    la historia del deporte!"
+  texto: {fileID: 2108837377}
 --- !u!1 &995732922
 GameObject:
   m_ObjectHideFlags: 0
@@ -801,7 +840,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 1200, y: 2000}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
@@ -1003,7 +1042,7 @@ GameObject:
   - component: {fileID: 1936717466}
   - component: {fileID: 1936717465}
   m_Layer: 5
-  m_Name: ButtonVerde
+  m_Name: Continuar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1072,7 +1111,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1936717466}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 748161938}
+        m_TargetAssemblyTypeName: Presentacion, Assembly-CSharp
+        m_MethodName: nextTextos
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1936717466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1236,15 +1287,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Bienvenido a Mexican Team Manager. Est\xE1s iniciando tu carrera como
-    director t\xE9cnico de un equipo de f\xFAtbol en el pa\xEDs de M\xE9xico. Tu
-    misi\xF3n aqu\xED es administrar al equipo con \xE9xito y asegurar su buen desempe\xF1o.
-    Deber\xE1s supervisar los entrenamientos, desarrollar estrategias de juego, gestionar
-    a los jugadores y sus contratos, y tomar decisiones clave para el equipo. Adem\xE1s,
-    es fundamental que informes regularmente a la junta directiva sobre el progreso
-    y los resultados obtenidos, asegurando que se cumplan los objetivos establecidos
-    y se mantenga la confianza del equipo directivo. Tu liderazgo y habilidades de
-    gesti\xF3n ser\xE1n cruciales para llevar al equipo a nuevas alturas."
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

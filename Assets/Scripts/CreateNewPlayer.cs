@@ -18,6 +18,7 @@ public class CreateNewPlayer : MonoBehaviour
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
+            CrearNuevoJugador();
         }
         else if (instance != this)
         {
@@ -37,22 +38,5 @@ public class CreateNewPlayer : MonoBehaviour
 
         AssetDatabase.CreateAsset(nuevoJugador, fullPath);
         AssetDatabase.SaveAssets();
-        GuardarPerfiles();
     }
-    public void GuardarPerfiles()
-    {
-        string listPath = Path.Combine(BASE_PATH, "Perfiles.json");
-
-        if (File.Exists(listPath))
-        {
-            string jsonData = File.ReadAllText(listPath);
-            Perfiles = JsonUtility.FromJson<CreateNewPlayer>(jsonData).Perfiles;
-        }
-
-        Perfiles.Add(nuevoJugador);
-        string json = JsonUtility.ToJson(Perfiles, true);
-
-        File.WriteAllText(listPath, json);
-    }
-
 }
