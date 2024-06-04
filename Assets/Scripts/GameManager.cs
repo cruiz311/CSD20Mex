@@ -6,7 +6,6 @@ public class GameManager : MonoBehaviour
 {
     public GameSO game;
     public Image imagenClub;
-    public Semana SemanaActual;
     public CalendarioSO calendarioSO;
     public EquipoSO equipoRival;
     public Image equipoRivalImagen;
@@ -14,8 +13,8 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         imagenClub.sprite = game.equipoSeleccionado.LogoEquipo;
-        SemanaActual = ObtenerSemana(calendarioSO.semanaActual);
-        Partido partido = BuscarPartidoDeEquipo(game.equipoSeleccionado, SemanaActual);
+        game.SemanaActual = ObtenerSemana(calendarioSO.semanaActual);
+        Partido partido = BuscarPartidoDeEquipo(game.equipoSeleccionado, game.SemanaActual);
 
         if (partido.local == game.equipoSeleccionado)
         {

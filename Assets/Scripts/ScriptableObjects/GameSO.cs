@@ -7,6 +7,7 @@ public class GameSO : ScriptableObject
 {
     public EquipoSO equipoSeleccionado;
     public List<EquipoSO> equiposRivales;
+    public Semana SemanaActual;
 
     public void OnEnable()
     {

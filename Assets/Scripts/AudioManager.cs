@@ -10,8 +10,6 @@ public class AudioManager : MonoBehaviour
     public float valueVolume;
     public Sprite[] buttonMute;
     public bool isMuted;
-    private bool startConfirmation;
-
     public AudioClip backgroundMusic; // The background music clip
     private AudioSource audioSource; // The audio source for playing background music
 
@@ -63,8 +61,4 @@ public class AudioManager : MonoBehaviour
         button.image.sprite = isMuted ? buttonMute[0] : buttonMute[1];
     }
 
-    public void StartConfirmation(bool confirmation)
-    {
-        startConfirmation = confirmation;
-    }
 }
