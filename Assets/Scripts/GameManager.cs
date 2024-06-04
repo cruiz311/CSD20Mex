@@ -8,22 +8,24 @@ public class GameManager : MonoBehaviour
     public Image imagenClub;
     public Semana SemanaActual;
     public CalendarioSO calendarioSO;
+    public EquipoSO equipoRival;
+    public Image equipoRivalImagen;
 
     private void Start()
     {
+        imagenClub.sprite = game.equipoSeleccionado.LogoEquipo;
         SemanaActual = ObtenerSemana(calendarioSO.semanaActual);
+        Partido partido = BuscarPartidoDeEquipo(game.equipoSeleccionado, SemanaActual);
 
-        if (SemanaActual != null)
+        if (partido.local == game.equipoSeleccionado)
         {
-            Partido partido = BuscarPartidoDeEquipo(game.equipoSeleccionado, SemanaActual);
-            if (partido != null)
-            {
-                Debug.Log($"El equipo seleccionado se enfrenta contra {(partido.local == game.equipoSeleccionado ? partido.visita.name : partido.local.name)}");
-            }
-            else
-            {
-                Debug.Log("El equipo seleccionado no tiene partido esta semana.");
-            }
+            equipoRival = partido.visita;
+            equipoRivalImagen.sprite = equipoRival.LogoEquipo;
+        }
+        else
+        {
+            equipoRival = partido.local;
+            equipoRivalImagen.sprite = equipoRival.LogoEquipo;
         }
     }
 

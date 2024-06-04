@@ -7,6 +7,12 @@ public class CalendarioSO : ScriptableObject
 {
     public List<Semana> semanas = new List<Semana>();
     public int semanaActual;
+
+    private void OnEnable()
+    {
+        semanas.Clear();
+        semanaActual = 1;
+    }
 }
 
 [Serializable]
