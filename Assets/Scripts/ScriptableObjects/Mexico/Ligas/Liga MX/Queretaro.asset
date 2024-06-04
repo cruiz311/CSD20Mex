@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Queretaro
   m_EditorClassIdentifier: 
+  Plantel: []
   LogoEquipo: {fileID: 21300000, guid: 8f70276a7e63ad24b8aeb4146be337f1, type: 3}
+  InformacionEquipo: "El Quer\xE9taro, fundado en 1950, aunque no ha ganado un t\xEDtulo
+    de liga, ha sido finalista y es conocido por sus fieles seguidores. "
+  NombreEstadio: Estadio Corregidora
+  SpriteEstadio: {fileID: 21300000, guid: 1b6f9c1c1e4045f4fa77490b09ba8642, type: 3}
+  Dinero: 34130
+  Abreviacion: QRO

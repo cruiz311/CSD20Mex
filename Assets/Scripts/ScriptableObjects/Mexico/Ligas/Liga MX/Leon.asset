@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Leon
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: 9d441436ef2295841bab97b879d15cef, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 3b8cbc9d09c551a47ab602492fca48e6, type: 3}
+  InformacionEquipo: "El Club Le\xF3n, fundado en 1944, ha ganado 8 t\xEDtulos de
+    liga y destaca por su estilo de juego ofensivo y su s\xF3lida base de aficionados. "
+  NombreEstadio: "Estadio Le\xF3n"
+  SpriteEstadio: {fileID: 21300000, guid: 132d2d530426f144d8b6ef114a2d61cf, type: 3}
+  Dinero: 27423
+  Abreviacion: LEO

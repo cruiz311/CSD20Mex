@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
 using TMPro;
-using UnityEditor.VersionControl;
 
 public class LoginRegister : MonoBehaviour
 {

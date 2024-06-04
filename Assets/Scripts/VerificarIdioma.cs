@@ -1,13 +1,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
+using UnityEditor;
 
 public class VerificarIdioma : MonoBehaviour
 {
     public List<TextMeshProUGUI> textos; // Los elementos de UI que se deben actualizar
     public List<TextosSO> idiomas; // Lista de idiomas disponibles
     public PlayerSO player;
-
+    public string idioma;
     private void Start()
     {
         if (CreateNewPlayer.instance.nuevoJugador != null)
@@ -15,11 +17,6 @@ public class VerificarIdioma : MonoBehaviour
             player = CreateNewPlayer.instance.nuevoJugador;
             ActualizarTextosScenaCrearPerfil();
         }
-    }
-    private void Update()
-    {
-        
-        // No necesitas verificar el idioma en cada frame, esto se puede hacer solo cuando cambie el idioma
     }
 
     public void OnClickChangeIdiomaSeleccion(string idioma)

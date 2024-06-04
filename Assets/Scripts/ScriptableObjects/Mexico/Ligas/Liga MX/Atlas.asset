@@ -12,4 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Atlas
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: c67e2517dae733f48ba76501f6a31fa5, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: d5c69ff9d2966e64497cdbf9bce62b17, type: 3}
+  InformacionEquipo: "El Atlas de Guadalajara, establecido en 1916, cuenta con dos
+    t\xEDtulos de liga y se enfoca en el desarrollo juvenil, manteniendo una hist\xF3rica
+    rivalidad con las Chivas. "
+  NombreEstadio: Estadio Jalisco
+  SpriteEstadio: {fileID: 21300000, guid: a61cd740c4086664aa7987acd8ed5a19, type: 3}
+  Dinero: 55110
+  Abreviacion: ATS
+  puntos: 6
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

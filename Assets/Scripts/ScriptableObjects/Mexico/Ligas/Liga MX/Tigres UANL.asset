@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Tigres UANL
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: b3649be7c7b588349a0cba9e007e82f9, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 0dbf50dd05a876a4bb7b796dffb64b80, type: 3}
+  InformacionEquipo: "Los Tigres UANL, desde 1960, con 7 t\xEDtulos de liga, son
+    famosos por su rivalidad con Monterrey y sus \xE9xitos nacionales e internacionales. "
+  NombreEstadio: Estadio Universitario - El Volcan
+  SpriteEstadio: {fileID: 21300000, guid: 5b2a6b3bb46b5e14a80bf570af14bf03, type: 3}
+  Dinero: 41615
+  Abreviacion: TIG

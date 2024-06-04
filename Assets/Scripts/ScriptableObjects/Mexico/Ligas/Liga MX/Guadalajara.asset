@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Guadalajara
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: 0f98cd059e298c84cb5e24871b926c6e, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 0dfd24603ffa84e4e93fbbb1a6de7e35, type: 3}
+  InformacionEquipo: "Las Chivas de Guadalajara, fundadas en 1906, tienen 12 t\xEDtulos
+    de liga y una pol\xEDtica de solo jugadores mexicanos, con una fuerte rivalidad
+    con el Am\xE9rica. "
+  NombreEstadio: Estadio Akron
+  SpriteEstadio: {fileID: 21300000, guid: 93b1ee813fac3cc45a75325f5d4759a1, type: 3}
+  Dinero: 46232
+  Abreviacion: CHI

@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Mazatlan
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: 139ccb1c65fb5154cabacec2796ea060, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 1d4ef7e7461c0ff45b2d2c64fc38cd69, type: 3}
+  InformacionEquipo: "Mazatl\xE1n, trasladado desde Morelia en 2020, es el equipo
+    m\xE1s nuevo de la liga y busca establecerse en la Liga MX. "
+  NombreEstadio: Estadio El Kraken
+  SpriteEstadio: {fileID: 21300000, guid: 5b75493426fa4cb48983c0c2d7dce4df, type: 3}
+  Dinero: 25000
+  Abreviacion: MAZ

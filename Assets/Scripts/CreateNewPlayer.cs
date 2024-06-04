@@ -1,7 +1,4 @@
 using System.Collections.Generic;
-using System.IO;
-using TreeEditor;
-using UnityEditor;
 using UnityEngine;
 
 public class CreateNewPlayer : MonoBehaviour
@@ -32,11 +29,11 @@ public class CreateNewPlayer : MonoBehaviour
         nuevoJugador.name = "NuevoUsuario";
     }
 
-    public void GuardarJugador()
-    {
-        string fullPath = Path.Combine(BASE_PATH, nuevoJugador.nombre + ".asset");
+    //public void GuardarJugador()
+    //{
+    //    string fullPath = Path.Combine(BASE_PATH, nuevoJugador.nombre + ".asset");
 
-        AssetDatabase.CreateAsset(nuevoJugador, fullPath);
-        AssetDatabase.SaveAssets();
-    }
+    //    AssetDatabase.CreateAsset(nuevoJugador, fullPath);
+    //    AssetDatabase.SaveAssets();
+    //}
 }

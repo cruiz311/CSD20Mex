@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Pachuca
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: aa50efd4097efac4cbe969ecb85845cb, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 19dd0ce2755cc9846a04141e1b577e44, type: 3}
+  InformacionEquipo: "El Club Pachuca, desde 1901, el m\xE1s antiguo de M\xE9xico,
+    ha ganado 6 t\xEDtulos de liga y se destaca por su desarrollo juvenil y \xE9xitos
+    internacionales. "
+  NombreEstadio: Estadio Hidalgo
+  SpriteEstadio: {fileID: 21300000, guid: dbade75f7dde2424d86c573de7b54476, type: 3}
+  Dinero: 30000
+  Abreviacion: PAC

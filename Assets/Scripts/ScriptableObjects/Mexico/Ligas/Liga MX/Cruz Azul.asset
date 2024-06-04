@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Cruz Azul
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: 1d1d2ab8348d1db4e9881901bfde7e38, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 38c5ac1e29b0c4c45b711f08adc01678, type: 3}
+  InformacionEquipo: "Cruz Azul, desde su fundaci\xF3n en 1927, ha ganado 9 t\xEDtulos
+    de liga y es conocido por romper su \"maldici\xF3n\" en 2021. "
+  NombreEstadio: Estadio Azteca
+  SpriteEstadio: {fileID: 21300000, guid: d7b3c9b6a59c8f3459c58a460c670803, type: 3}
+  Dinero: 87523
+  Abreviacion: CAZ

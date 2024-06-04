@@ -35,7 +35,7 @@ public class GuardarPlayerInfo : MonoBehaviour
         // Verificar que player.nombre, apellido y player.estado.nombre no estén vacíos
         if (!string.IsNullOrWhiteSpace(player.nombre) && !string.IsNullOrWhiteSpace(player.apellido) && player.estadoPlayer != null)
         {
-            CreateNewPlayer.instance.GuardarJugador();
+            //CreateNewPlayer.instance.GuardarJugador();
             SceneManager.LoadScene("Presentacion");
         }
     }

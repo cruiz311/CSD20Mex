@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Necaxa
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: d0edae77cc5ab9a459b6c10246341f70, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 3a0203f1fe929af47b51d22452b790d8, type: 3}
+  InformacionEquipo: "Necaxa, fundado en 1923, con 3 t\xEDtulos de liga, ha experimentado
+    varios ascensos y descensos y es conocido por su rica tradici\xF3n hist\xF3rica. "
+  NombreEstadio: Estadio Victoria
+  SpriteEstadio: {fileID: 21300000, guid: da992806f35adc4438c14979f7102b23, type: 3}
+  Dinero: 25500
+  Abreviacion: NEC

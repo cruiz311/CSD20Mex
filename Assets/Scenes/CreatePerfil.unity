@@ -3516,6 +3516,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 74b9df5e7fd1f1244bbd65c64fa0a17c, type: 2}
   - {fileID: 11400000, guid: 8fafacb016ce6b342a9e9dd7e93195d8, type: 2}
   player: {fileID: 11400000, guid: 07e9e1706adb38c45b9c71de4c165bae, type: 2}
+  dropdown: {fileID: 0}
+  idioma: 
 --- !u!1 &599315713
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Monterrey
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: f8857bb2e53ad604aad47ab2ea2d5f44, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: bdfe5dcba1a57b5439f5a4dd39ceaab2, type: 3}
+  InformacionEquipo: "Monterrey, desde 1945, ha ganado 5 t\xEDtulos de liga y destaca
+    por su fuerte inversi\xF3n y rivalidad con Tigres en el Cl\xE1sico Regio. "
+  NombreEstadio: Estadio BBVA
+  SpriteEstadio: {fileID: 21300000, guid: 5725fb17021f4cf4aafc0586ab0d38db, type: 3}
+  Dinero: 53500
+  Abreviacion: MON

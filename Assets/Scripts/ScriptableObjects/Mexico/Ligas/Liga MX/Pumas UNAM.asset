@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Pumas UNAM
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: 3485ce4ab17b3bd45a3d3dad23241ad1, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: 03bf230baa8fd374b8838d3b181e557b, type: 3}
+  InformacionEquipo: "Los Pumas UNAM, desde 1954, ganadores de 7 t\xEDtulos de liga,
+    son famosos por su cantera y su rivalidad con el Am\xE9rica en el Cl\xE1sico
+    Capitalino. "
+  NombreEstadio: "Estadio Ol\xEDmpico Universitario"
+  SpriteEstadio: {fileID: 21300000, guid: 1e792369f83d3234e93d22e1f162312b, type: 3}
+  Dinero: 72000
+  Abreviacion: PUM

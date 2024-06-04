@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Tijuana
   m_EditorClassIdentifier: 
+  Plantel: []
   LogoEquipo: {fileID: 21300000, guid: 3b7de2b4affcaac4db8c0d0569bc9737, type: 3}
+  InformacionEquipo: "El Club Tijuana, desde 2007, ganador de 1 t\xEDtulo de liga
+    en 2012, es conocido por su afici\xF3n apasionada y su proximidad a la frontera
+    con EE.UU. "
+  NombreEstadio: Estadio Caliente
+  SpriteEstadio: {fileID: 21300000, guid: 06db76095f11c88458520a1d8c0fbc57, type: 3}
+  Dinero: 27333
+  Abreviacion: TIJ

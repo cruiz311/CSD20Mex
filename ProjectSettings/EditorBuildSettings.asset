@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Presentacion.unity
     guid: 1c2fc329264d0b64f9ce27014b5e5ca7
   - enabled: 1
+    path: Assets/Scenes/ChoseTeam.unity
+    guid: 46b7ee2d3ffa2554c9c01215b4b64f28
+  - enabled: 1
     path: Assets/Scenes/Juego.unity
     guid: a7bb61ec15aba9b40afd9a374351dd73
   m_configObjects: {}

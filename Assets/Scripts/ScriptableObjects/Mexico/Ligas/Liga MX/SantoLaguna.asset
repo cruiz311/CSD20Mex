@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: SantoLaguna
   m_EditorClassIdentifier: 
-  LogoEquipo: {fileID: 21300000, guid: ac603c8cab0ca214bbb382d33030865a, type: 3}
+  Plantel: []
+  LogoEquipo: {fileID: 21300000, guid: be0f5b3aa6e6ff346a7c52e244bdcf89, type: 3}
+  InformacionEquipo: "Santos Laguna, establecido en 1983, con 6 t\xEDtulos de liga,
+    es conocido por su esp\xEDritu combativo y sus \xE9xitos en torneos cortos. "
+  NombreEstadio: Estadio TSM Corona
+  SpriteEstadio: {fileID: 21300000, guid: 99747cec2217faa43a63a28315beb20b, type: 3}
+  Dinero: 30000
+  Abreviacion: SAN
