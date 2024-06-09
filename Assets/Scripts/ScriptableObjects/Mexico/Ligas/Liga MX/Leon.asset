@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Leon
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: bccacf96b72c2a548adcd4bcc4aff5e1, type: 2}
+  - {fileID: 11400000, guid: 125055f21e04a8c4aa2dad13b67f84a5, type: 2}
+  - {fileID: 11400000, guid: d3a8c3b59d87ff14bbb5b952a35b6b7e, type: 2}
+  - {fileID: 11400000, guid: 8e96f010f079cd447ae61be41284553c, type: 2}
+  - {fileID: 11400000, guid: 972ef20e6692b464bb24979144ad3ab9, type: 2}
+  - {fileID: 11400000, guid: a49eb894b32f91d41b9ee3d347ebe81d, type: 2}
+  - {fileID: 11400000, guid: 9b2baecd68b3b8f4287d009e609df709, type: 2}
+  - {fileID: 11400000, guid: fe92c7d99c91c3147a9f42904df05dd9, type: 2}
+  - {fileID: 11400000, guid: fd7d2404c4c35634b9ba572349c67d3f, type: 2}
+  - {fileID: 11400000, guid: c3472d727f5d353419aaa544c4b5c9cb, type: 2}
+  - {fileID: 11400000, guid: 62943f6f86c5c14499f04fd547732400, type: 2}
+  - {fileID: 11400000, guid: 593572950468d334c9cea503270f09dd, type: 2}
+  - {fileID: 11400000, guid: a6b62ab5575d84e49b07b42464be34b7, type: 2}
+  - {fileID: 11400000, guid: acdb7b01bfc6dc04784181cc7591a5f5, type: 2}
+  - {fileID: 11400000, guid: 5236a6c4f69b9994481d27b9e3c0d3d9, type: 2}
+  - {fileID: 11400000, guid: b37b802e0863e5d48b0ed2812a220d86, type: 2}
+  - {fileID: 11400000, guid: 30c4a01d188be2b4f874c1cd5a695574, type: 2}
+  - {fileID: 11400000, guid: 0f89941feb374f34b9fa74dc1af33318, type: 2}
+  - {fileID: 11400000, guid: e013680ed7c0e414db1c91b18afd99de, type: 2}
+  - {fileID: 11400000, guid: 3fe1e405bba580a479ea9ca8bc914d79, type: 2}
+  - {fileID: 11400000, guid: bb7b28b2b2dade94baea852b7fc11bb3, type: 2}
+  - {fileID: 11400000, guid: 8eab70d7f79937040938299d5911fd44, type: 2}
+  - {fileID: 11400000, guid: 1f9d42024f0309d4089b8d1c2812f47d, type: 2}
+  - {fileID: 11400000, guid: 7e731e45a0152664e9eeb44a6e17caf7, type: 2}
+  - {fileID: 11400000, guid: 3752b3618d422a945b2f9866ddcfe050, type: 2}
+  - {fileID: 11400000, guid: 454710e220ca91540826f05d4efec074, type: 2}
+  - {fileID: 11400000, guid: ca79e099f2a1498419046d3b907fa274, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 3b8cbc9d09c551a47ab602492fca48e6, type: 3}
   InformacionEquipo: "El Club Le\xF3n, fundado en 1944, ha ganado 8 t\xEDtulos de
     liga y destaca por su estilo de juego ofensivo y su s\xF3lida base de aficionados. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 132d2d530426f144d8b6ef114a2d61cf, type: 3}
   Dinero: 27423
   Abreviacion: LEO
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

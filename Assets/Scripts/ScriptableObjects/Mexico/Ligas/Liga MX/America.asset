@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: America
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 450101ccb88f47741b79fb147ae5950c, type: 2}
+  - {fileID: 11400000, guid: 312f045d1a5a5614eba2376762ab495d, type: 2}
+  - {fileID: 11400000, guid: 3208e959105a3a643a3e6286642075eb, type: 2}
+  - {fileID: 11400000, guid: 61bfa6174ae07ca4ebf6d7c973300320, type: 2}
+  - {fileID: 11400000, guid: ee4effe1addd583448be44c9fbaa53fa, type: 2}
+  - {fileID: 11400000, guid: 90d5749ca6a9c524c8a08422bab07f4c, type: 2}
+  - {fileID: 11400000, guid: 19c75fd31125e7349aae504ad3ea4280, type: 2}
+  - {fileID: 11400000, guid: 109684409244a4e41bc2cada35eb6671, type: 2}
+  - {fileID: 11400000, guid: 104c43a7abc1bdd4a81847a6830632a0, type: 2}
+  - {fileID: 11400000, guid: c3f62f0d35075b6499b378107129b659, type: 2}
+  - {fileID: 11400000, guid: 64ad22760ab4d7a4399c6a6076f8a4ba, type: 2}
+  - {fileID: 11400000, guid: 77d832fc4791cd0429bb5ecf4051c0d6, type: 2}
+  - {fileID: 11400000, guid: c169aadf7cd04b74cb77d0ccb001c840, type: 2}
+  - {fileID: 11400000, guid: 96d63e50aa4e6054b8fb083c68ac03b5, type: 2}
+  - {fileID: 11400000, guid: 936ac02e509dffb479636d00b5dbf616, type: 2}
+  - {fileID: 11400000, guid: 708e66f23faedfc45b481c4bf50dca90, type: 2}
+  - {fileID: 11400000, guid: 33f96ee53772eb14faaeb4a893afd267, type: 2}
+  - {fileID: 11400000, guid: 24833552b37f90042bcc7f048d83c3b9, type: 2}
+  - {fileID: 11400000, guid: 0cecae5eaced23f4890c46c63471d640, type: 2}
+  - {fileID: 11400000, guid: 1d87ee9d33f00be43b0bde0dedaef11c, type: 2}
+  - {fileID: 11400000, guid: 7d197653eaaca38438d8a1720373f4ec, type: 2}
+  - {fileID: 11400000, guid: abd21bc1ece71d04a8de60df50c6055e, type: 2}
+  - {fileID: 11400000, guid: aaf73386f88de2640b5e610b79fe0222, type: 2}
+  - {fileID: 11400000, guid: b1477fa123a7d624f9f024d322d12e9e, type: 2}
+  - {fileID: 11400000, guid: e09c78c7e0b892d41b1a2710de53d634, type: 2}
+  - {fileID: 11400000, guid: 0481fc81c010c7e45b96d9744509f863, type: 2}
+  - {fileID: 11400000, guid: ad4b3b0841398dd4fa0578a0f3ba68dd, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 387c84b62aef29446b668f1b582580fd, type: 3}
   InformacionEquipo: "El Club Am\xE9rica, fundado en 1916, es uno de los equipos
     m\xE1s exitosos de M\xE9xico con 13 t\xEDtulos de liga, destac\xE1ndose por su
@@ -21,7 +48,7 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: a68fcb622cc490640a347f3fa7eb2009, type: 3}
   Dinero: 87523
   Abreviacion: AME
-  puntos: 6
+  puntos: 0
   PartidosJugados: 0
   PartidosGanados: 0
   PartidosPerdidos: 0

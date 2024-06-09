@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SiguientePartido.unity
     guid: 1c84261d13c692b4ea9b9ff37fd8c885
+  - enabled: 1
+    path: Assets/Scenes/MiEquipo.unity
+    guid: 5abdbc617d219cb4e96819f67823b2a5
   m_configObjects: {}

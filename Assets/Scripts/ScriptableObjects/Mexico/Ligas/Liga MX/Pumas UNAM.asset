@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Pumas UNAM
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: b8fe56fd3fede7a47b3432a087df6431, type: 2}
+  - {fileID: 11400000, guid: 37b27152e3851684a94322adb3c6bdc9, type: 2}
+  - {fileID: 11400000, guid: 7a8328bad271c154691c3f54b504e317, type: 2}
+  - {fileID: 11400000, guid: b1000b43b421553418faa8bff30d4834, type: 2}
+  - {fileID: 11400000, guid: 203da62d4da74fd45a2e3363ba4c6e70, type: 2}
+  - {fileID: 11400000, guid: ac17ddb7d30611041a7aa0bf600cc9c2, type: 2}
+  - {fileID: 11400000, guid: b319981abfb3cef41aabec0d3cdb493d, type: 2}
+  - {fileID: 11400000, guid: 19dcd2f9b409fa542ad3db6056519ea3, type: 2}
+  - {fileID: 11400000, guid: 67db7e55f5202fe4ebbbee00ea95cee8, type: 2}
+  - {fileID: 11400000, guid: a25ccc95818fc6d4d8e631edef1b9b61, type: 2}
+  - {fileID: 11400000, guid: 88cf9de433ec97b49a50cf152d051455, type: 2}
+  - {fileID: 11400000, guid: c7fd72c6944165b4bb8af7279784734f, type: 2}
+  - {fileID: 11400000, guid: 602ce1f091b851c438ba2de7ff353b98, type: 2}
+  - {fileID: 11400000, guid: 45c976bbce2d25347a9f72e37ac03db2, type: 2}
+  - {fileID: 11400000, guid: 2343672cb9a91104891780779be73968, type: 2}
+  - {fileID: 11400000, guid: c3a674637f3babd47af6b78a0a2123d2, type: 2}
+  - {fileID: 11400000, guid: f0cb3a7ee4027714897ab8b5a10c8a3a, type: 2}
+  - {fileID: 11400000, guid: a8c10778d085d3d48a7f044d1d503468, type: 2}
+  - {fileID: 11400000, guid: 6417dc71df2714b4bac5be1e12ae7b9a, type: 2}
+  - {fileID: 11400000, guid: b29cdf08a51e70a4a8cb4c0379bec6e2, type: 2}
+  - {fileID: 11400000, guid: 21412902cb22cf446bb144d1e8182163, type: 2}
+  - {fileID: 11400000, guid: 6898ac46d0ebc81439ddca37a9984530, type: 2}
+  - {fileID: 11400000, guid: 2cd9abf1e7f8d4e468debe30f84c52df, type: 2}
+  - {fileID: 11400000, guid: 880d51deb9d45f746990ff05820af77a, type: 2}
+  - {fileID: 11400000, guid: 6089ede7739e09a49a06ce7c70c31e65, type: 2}
+  - {fileID: 11400000, guid: 7037fe1b1b9f35c45b7ba30c5419dd23, type: 2}
+  - {fileID: 11400000, guid: 733a2bd1a3161b74bae47e4fd9600d00, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 03bf230baa8fd374b8838d3b181e557b, type: 3}
   InformacionEquipo: "Los Pumas UNAM, desde 1954, ganadores de 7 t\xEDtulos de liga,
     son famosos por su cantera y su rivalidad con el Am\xE9rica en el Cl\xE1sico
@@ -21,3 +48,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 1e792369f83d3234e93d22e1f162312b, type: 3}
   Dinero: 72000
   Abreviacion: PUM
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

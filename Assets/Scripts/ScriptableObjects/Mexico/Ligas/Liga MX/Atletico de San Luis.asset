@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Atletico de San Luis
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: a0767793c97830748a2cef02631fc229, type: 2}
+  - {fileID: 11400000, guid: 23aa6be269933e946a3161312866de70, type: 2}
+  - {fileID: 11400000, guid: c5aef0b7b853da74cb1d465e9ba800f8, type: 2}
+  - {fileID: 11400000, guid: 8e8778b665a32d74b88d2c91a8cb8820, type: 2}
+  - {fileID: 11400000, guid: 1af724fb36913034eb3ac49fb1e402c0, type: 2}
+  - {fileID: 11400000, guid: ee886cac278d90d459a38d97df9cc1e2, type: 2}
+  - {fileID: 11400000, guid: 9c69dca9c6a40ad40a9bbc163355eec1, type: 2}
+  - {fileID: 11400000, guid: 8219ae995cd247e43950bbc0fe3ee5cf, type: 2}
+  - {fileID: 11400000, guid: bf1bee275bd25254b8801f10b82e33c1, type: 2}
+  - {fileID: 11400000, guid: 7a2da6911d0bd894ba7fe81dedd93b68, type: 2}
+  - {fileID: 11400000, guid: ecd67478fad62eb4fa30ac30bdfb3173, type: 2}
+  - {fileID: 11400000, guid: 7ca883c33772381459cf1e41e66dc619, type: 2}
+  - {fileID: 11400000, guid: ca5c60a5446a7cb4a9137e56684e24b8, type: 2}
+  - {fileID: 11400000, guid: 510c25eb9ad717c4988657344ff56cd8, type: 2}
+  - {fileID: 11400000, guid: e3f554d66c4905d45a2797dc1457ee4e, type: 2}
+  - {fileID: 11400000, guid: 90a69ffb9611b7745beb453eeac04643, type: 2}
+  - {fileID: 11400000, guid: a7ca4ba41494ab44c9cc3c7cfe7a975f, type: 2}
+  - {fileID: 11400000, guid: 509449461aa0f944c847965c8836975b, type: 2}
+  - {fileID: 11400000, guid: 875309602b61699429d60acbdbf828a8, type: 2}
+  - {fileID: 11400000, guid: 234f8412fd73cdf4fa32023a67fc0295, type: 2}
+  - {fileID: 11400000, guid: 85069861bef881341979acb642dd91d7, type: 2}
+  - {fileID: 11400000, guid: 7dbe0ef3c5077dc42913c902307a3584, type: 2}
+  - {fileID: 11400000, guid: 2e6c7b5bf2ecd7740b48b9bdad558e4a, type: 2}
+  - {fileID: 11400000, guid: 3fbc7c019342e1543ad051034533ac07, type: 2}
+  - {fileID: 11400000, guid: 2689270b408ec14459272190f1a2e5af, type: 2}
+  - {fileID: 11400000, guid: 6a94d4f4b59e8eb4baa601de9f62ade1, type: 2}
+  - {fileID: 11400000, guid: d575ad889de880644a1fb14f38159d1e, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 8ae1ef6d9cbdbe34da95b2f26f4ccc67, type: 3}
   InformacionEquipo: "El Atl\xE9tico San Luis, fundado en 2013 y vinculado al Atl\xE9tico
     de Madrid, ha tenido ascensos y descensos entre la primera y segunda divisi\xF3n.  "
@@ -20,7 +47,7 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 8ebf7e4c37e0054429d8d3cf270db602, type: 3}
   Dinero: 25709
   Abreviacion: AUR
-  puntos: 6
+  puntos: 0
   PartidosJugados: 0
   PartidosGanados: 0
   PartidosPerdidos: 0

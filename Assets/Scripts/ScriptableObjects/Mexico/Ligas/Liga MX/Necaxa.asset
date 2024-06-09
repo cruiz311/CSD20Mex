@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Necaxa
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 1cd93034f2ecc5f48a7ec313d35b287a, type: 2}
+  - {fileID: 11400000, guid: d561aaf3d6706ac4aa7d5b99931afee1, type: 2}
+  - {fileID: 11400000, guid: 0006446e554dddf4ebfe77c01172f2e9, type: 2}
+  - {fileID: 11400000, guid: 8e37b0c427c4f0a499960fd54003ada2, type: 2}
+  - {fileID: 11400000, guid: 201acb0e2bd9b2448a16bb41b6fed000, type: 2}
+  - {fileID: 11400000, guid: e563595feadbc924b8e556dc3b60c8c9, type: 2}
+  - {fileID: 11400000, guid: 00169b48129c0424a917b39d03ae0766, type: 2}
+  - {fileID: 11400000, guid: f3fe13ea904244b42bda75c61f1407d5, type: 2}
+  - {fileID: 11400000, guid: 8a40dadab5f4cbc4aa66bb518447fbd8, type: 2}
+  - {fileID: 11400000, guid: 1537aff02c0de3e419cd6628c315801b, type: 2}
+  - {fileID: 11400000, guid: 64f4a8662ac15f945950fd2109c0590e, type: 2}
+  - {fileID: 11400000, guid: a7440630e8a298144b30e2a728e1d45f, type: 2}
+  - {fileID: 11400000, guid: 5346d128a2b80b74e92940495d7fb8d4, type: 2}
+  - {fileID: 11400000, guid: ea7e0752b87f419459b5d2e51a9daa38, type: 2}
+  - {fileID: 11400000, guid: 00454583585a8ae449b6983f9bacea9a, type: 2}
+  - {fileID: 11400000, guid: 40eb3c4f9b5fd1d4299b99329c5809b6, type: 2}
+  - {fileID: 11400000, guid: e3cf063262cec2645af12412924eb774, type: 2}
+  - {fileID: 11400000, guid: 8c91893dc7ffd8242a195b9982a59c43, type: 2}
+  - {fileID: 11400000, guid: 9442baeea53551c4ab8790571dac9a6e, type: 2}
+  - {fileID: 11400000, guid: 0b2ea3c97d7747a45b8e91b38885c799, type: 2}
+  - {fileID: 11400000, guid: d8468e09dc09da349a94935b721ac61c, type: 2}
+  - {fileID: 11400000, guid: 26a05715c7d0bf543a607e721d20f965, type: 2}
+  - {fileID: 11400000, guid: 768130e1cfa67a54ab91d6895544b262, type: 2}
+  - {fileID: 11400000, guid: 9e4281c6a9e4f1a4aacfbba58916035c, type: 2}
+  - {fileID: 11400000, guid: b0813c11a5ce59b40b94c55c177cd376, type: 2}
+  - {fileID: 11400000, guid: e68d3049f2092914eb2523b3653c0e5a, type: 2}
+  - {fileID: 11400000, guid: 77443c4598c98c648a8ce6062f733c4b, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 3a0203f1fe929af47b51d22452b790d8, type: 3}
   InformacionEquipo: "Necaxa, fundado en 1923, con 3 t\xEDtulos de liga, ha experimentado
     varios ascensos y descensos y es conocido por su rica tradici\xF3n hist\xF3rica. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: da992806f35adc4438c14979f7102b23, type: 3}
   Dinero: 25500
   Abreviacion: NEC
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

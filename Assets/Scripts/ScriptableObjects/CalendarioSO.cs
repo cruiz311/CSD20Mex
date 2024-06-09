@@ -13,6 +13,11 @@ public class CalendarioSO : ScriptableObject
         semanas.Clear();
         semanaActual = 1;
     }
+
+    public void SiguienteSemana()
+    {
+        semanaActual++;
+    }
 }
 
 [Serializable]
@@ -24,10 +29,8 @@ public class Semana
 [Serializable]
 public class Partido
 {
-    public string id;
     public EquipoSO local;
-    public EquipoSO visita;
-
     public int golLocal;
+    public EquipoSO visita;
     public int golVisita;
 }

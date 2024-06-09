@@ -15,801 +15,648 @@ MonoBehaviour:
   semanas:
   - numeroSemana: Semana 1
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
       golVisita: 0
   - numeroSemana: Semana 2
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
       golVisita: 0
   - numeroSemana: Semana 3
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
       golVisita: 0
   - numeroSemana: Semana 4
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
       golVisita: 0
   - numeroSemana: Semana 5
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
       golVisita: 0
   - numeroSemana: Semana 6
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
       golVisita: 0
   - numeroSemana: Semana 7
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
       golVisita: 0
   - numeroSemana: Semana 8
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
       golVisita: 0
   - numeroSemana: Semana 9
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
-      visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
       golVisita: 0
   - numeroSemana: Semana 10
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+    - local: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
-      visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
       golVisita: 0
   - numeroSemana: Semana 11
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+    - local: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
-      visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
       golVisita: 0
   - numeroSemana: Semana 12
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+    - local: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
-      visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
       golVisita: 0
   - numeroSemana: Semana 13
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+    - local: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
-      visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
       golVisita: 0
   - numeroSemana: Semana 14
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+    - local: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
-      visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
       golVisita: 0
   - numeroSemana: Semana 15
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+    - local: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
-      visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
       golVisita: 0
   - numeroSemana: Semana 16
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+    - local: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
-      visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
       golVisita: 0
   - numeroSemana: Semana 17
     FechaDePartidos:
-    - id: 
-      local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+    - local: {fileID: 11400000, guid: ddb415e1a0e4245459f804dd21e728b6, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1a0b74b52f203264784900c7f1e8e8b2, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+    - local: {fileID: 11400000, guid: ac4c257c774b5904398be6510f935270, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: fdfe0054085e2304eb55c24f7fe29e5d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+    - local: {fileID: 11400000, guid: 27ad7dab34ae28c43b3bd71fc59f57bf, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 31528b2b57a49d045b5f63d2319a1241, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+    - local: {fileID: 11400000, guid: ca16320fe47eb544eb32ac59c58e64e1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 6e1478d447f5b3a49a14d6354463a90f, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+    - local: {fileID: 11400000, guid: 89e58eaf7c6056946a8b0b92142d5c45, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: d0f27d07b5b6112458420eeb9af5febd, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+    - local: {fileID: 11400000, guid: a69eaa68e8960a4459a0fff5589e70fc, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 78daeb9ba472e4a4a8e9ac5bea24fae8, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+    - local: {fileID: 11400000, guid: 8aee459815b26b64ba2afaa1b475efb1, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: ad07def69f005e143b90f60c4085b036, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+    - local: {fileID: 11400000, guid: b78c8ee5822f510458e31a965351e0f0, type: 2}
+      golLocal: 0
       visita: {fileID: 11400000, guid: 1e6a6ca6fce68f945a1a16c247c0c13d, type: 2}
-      golLocal: 0
       golVisita: 0
-    - id: 
-      local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
-      visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
+    - local: {fileID: 11400000, guid: 043f9a948dfcffb409588a9208fd2590, type: 2}
       golLocal: 0
+      visita: {fileID: 11400000, guid: 6b26e20d87dea6247b0c1ad54af96ad4, type: 2}
       golVisita: 0
   semanaActual: 1

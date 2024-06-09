@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Pachuca
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 0146bdd196358384d8945a6da62a8019, type: 2}
+  - {fileID: 11400000, guid: 68205359df63a814eb1e0d49df66f691, type: 2}
+  - {fileID: 11400000, guid: bf6b755a58b432d46877ff057821613b, type: 2}
+  - {fileID: 11400000, guid: 2e4ea0e35030e3b47b5f4c08b150cb81, type: 2}
+  - {fileID: 11400000, guid: b08addcb925e8ed4c87cac79291a97e3, type: 2}
+  - {fileID: 11400000, guid: 62c30c9912c3e4341b62ec9430ac4c38, type: 2}
+  - {fileID: 11400000, guid: b261b7b14b0ca3c4798b337b8d4f5f13, type: 2}
+  - {fileID: 11400000, guid: 8c22da5514fbc5345b5e770707df6b5c, type: 2}
+  - {fileID: 11400000, guid: 254b7499845c2294a8de5017f4c67dec, type: 2}
+  - {fileID: 11400000, guid: 6ea95c4928e71a64386581c7986f30db, type: 2}
+  - {fileID: 11400000, guid: a1831acf3bcaa6844a34adadbba51c4a, type: 2}
+  - {fileID: 11400000, guid: 4d9f81ff5dba09041aeac5e402baebcc, type: 2}
+  - {fileID: 11400000, guid: 34d3d84b270663f4a862d7f2c5fca759, type: 2}
+  - {fileID: 11400000, guid: f952d090e6739f64b8a7b005c72ed420, type: 2}
+  - {fileID: 11400000, guid: e616b95364fef7a44b74684a7ed53931, type: 2}
+  - {fileID: 11400000, guid: 3f2ae1787b0b3084689465ce6224cb3f, type: 2}
+  - {fileID: 11400000, guid: a6ab596cc6ae0e84489e8f41096c51cd, type: 2}
+  - {fileID: 11400000, guid: 0cd75a30f4a9d554d8c7ee1473177000, type: 2}
+  - {fileID: 11400000, guid: a16b8318563dbff45892af932a15af84, type: 2}
+  - {fileID: 11400000, guid: 82ff1f46c52fff24e96e9e647279042d, type: 2}
+  - {fileID: 11400000, guid: 17a069f126d38cf4f9b3321c6d7059fe, type: 2}
+  - {fileID: 11400000, guid: eaff576a188a12e47b842e8d8e2288b8, type: 2}
+  - {fileID: 11400000, guid: 2c16aec28731f90418c1c3cf92ef4c32, type: 2}
+  - {fileID: 11400000, guid: d12cce84fbdfe1d4597f23f3894eb4a4, type: 2}
+  - {fileID: 11400000, guid: 1d88d01ad2911dc46a480bca8e34fc26, type: 2}
+  - {fileID: 11400000, guid: 219066c76ec964f468922eef11003340, type: 2}
+  - {fileID: 11400000, guid: 4f9d459a5cc89bb498e57a167f27f4db, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 19dd0ce2755cc9846a04141e1b577e44, type: 3}
   InformacionEquipo: "El Club Pachuca, desde 1901, el m\xE1s antiguo de M\xE9xico,
     ha ganado 6 t\xEDtulos de liga y se destaca por su desarrollo juvenil y \xE9xitos
@@ -21,3 +48,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: dbade75f7dde2424d86c573de7b54476, type: 3}
   Dinero: 30000
   Abreviacion: PAC
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

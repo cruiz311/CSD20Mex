@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Mazatlan
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: a0b4246972dcfac49a822e1d62d2e523, type: 2}
+  - {fileID: 11400000, guid: 797fb2b8f83c6d94b8dfb35602dd9c63, type: 2}
+  - {fileID: 11400000, guid: 4549372fe86d90c4685ac9a05cd6c94e, type: 2}
+  - {fileID: 11400000, guid: 2cf025ca470dd824fb4a4a0546c28b51, type: 2}
+  - {fileID: 11400000, guid: 9acd1d3d36a41354984fa8f66877cfab, type: 2}
+  - {fileID: 11400000, guid: f7e640effc1c19941825d93d1f536569, type: 2}
+  - {fileID: 11400000, guid: daa2fbcd9a901a949b0817de54f15db5, type: 2}
+  - {fileID: 11400000, guid: bf079066b542cd64eb7c8252c7ec0236, type: 2}
+  - {fileID: 11400000, guid: 9ed292268b304a04eb7d96e346eb62bb, type: 2}
+  - {fileID: 11400000, guid: 41a8eb45e18eb814e86d379375e418bb, type: 2}
+  - {fileID: 11400000, guid: c4b2785747b22e24085bd9f53017a5ef, type: 2}
+  - {fileID: 11400000, guid: 1c65ee3efc690484c8e724459e91b07e, type: 2}
+  - {fileID: 11400000, guid: b228914ae17b9ee499698610dda5d85c, type: 2}
+  - {fileID: 11400000, guid: 134f854e75e95ce4086e829f226360cb, type: 2}
+  - {fileID: 11400000, guid: 6cdb50d5996dcc947918383b73340181, type: 2}
+  - {fileID: 11400000, guid: 250930aad7d93fd469571160946ecfaa, type: 2}
+  - {fileID: 11400000, guid: 61c52d90d12955d4aa487ee64baf9006, type: 2}
+  - {fileID: 11400000, guid: 196b3df1ec788934d964a8375bfc66c5, type: 2}
+  - {fileID: 11400000, guid: bf96f50f9cb72d4498fee14792da5f34, type: 2}
+  - {fileID: 11400000, guid: ab9bdf723226d564b910dc8d59bdb699, type: 2}
+  - {fileID: 11400000, guid: a4846c1133a869e47bf3666d16c5c55c, type: 2}
+  - {fileID: 11400000, guid: cf70189644aa22741b9a91d2201e0870, type: 2}
+  - {fileID: 11400000, guid: eeb929e533f2be64c967918575f0507e, type: 2}
+  - {fileID: 11400000, guid: 5842d9bf2239d1e43bad87b5bd453063, type: 2}
+  - {fileID: 11400000, guid: aabb4286862f825428d8135fc9f8651a, type: 2}
+  - {fileID: 11400000, guid: bb2a95399b5a87d44b82443063abd8f5, type: 2}
+  - {fileID: 11400000, guid: b2f0423085e04564b981cf442a1d9c2c, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 1d4ef7e7461c0ff45b2d2c64fc38cd69, type: 3}
   InformacionEquipo: "Mazatl\xE1n, trasladado desde Morelia en 2020, es el equipo
     m\xE1s nuevo de la liga y busca establecerse en la Liga MX. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 5b75493426fa4cb48983c0c2d7dce4df, type: 3}
   Dinero: 25000
   Abreviacion: MAZ
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

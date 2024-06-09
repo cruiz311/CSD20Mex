@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Atlas
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 4a3cdf12b7d02104b96c6e9696ae8a6e, type: 2}
+  - {fileID: 11400000, guid: d501989471da1e048b3d36132860f47d, type: 2}
+  - {fileID: 11400000, guid: 2e565a8444957ab4a9ddeb281e592596, type: 2}
+  - {fileID: 11400000, guid: 921c72cc28f99c1488feccb57cd32a0e, type: 2}
+  - {fileID: 11400000, guid: 1a2bc118b41bd7145960b6cdaed94fd3, type: 2}
+  - {fileID: 11400000, guid: 1d6cd3ab1f0ad87459f94b2e6dc58f41, type: 2}
+  - {fileID: 11400000, guid: 6b27dce5d3951ac4688484c442f7f6b4, type: 2}
+  - {fileID: 11400000, guid: 9b0d4e35f835ae94296be004aafb3aec, type: 2}
+  - {fileID: 11400000, guid: 39e8a50e5b707444b8757ff9d9cded26, type: 2}
+  - {fileID: 11400000, guid: bf9888bb2a79895459d93115b7638651, type: 2}
+  - {fileID: 11400000, guid: 671bfe82755dc744fb3f716330ad73e4, type: 2}
+  - {fileID: 11400000, guid: 9b73179e0bf6aa24aa7ddff8b533df5c, type: 2}
+  - {fileID: 11400000, guid: adce8b59e369c2f42b80d0c4ec118a57, type: 2}
+  - {fileID: 11400000, guid: 944ee7d14eaaa654cbef1fed24197874, type: 2}
+  - {fileID: 11400000, guid: 3ea6315090f67b7459cc7bae34b65ac3, type: 2}
+  - {fileID: 11400000, guid: f899fbb7a23a2fe4fbb34f58e54ab9cb, type: 2}
+  - {fileID: 11400000, guid: 945b8b2b9faa9bb49b73a43da72fc3de, type: 2}
+  - {fileID: 11400000, guid: 3ab824ab03b922a408d525e4cb3f3744, type: 2}
+  - {fileID: 11400000, guid: 97ad9cb1c00cd3e4ab9aa911ef5fdb04, type: 2}
+  - {fileID: 11400000, guid: 88c20e7e7ced6e742b1ec06b6191b8bb, type: 2}
+  - {fileID: 11400000, guid: 1f4964677d424f44eaab79f8995849b4, type: 2}
+  - {fileID: 11400000, guid: 0e4d9beba3dd39642bc2dc0c34dc84b6, type: 2}
+  - {fileID: 11400000, guid: 1ce78e12d76487c4aa5a8b9d87eb53ad, type: 2}
+  - {fileID: 11400000, guid: c5b308cc79a2d0c4bb30a850f66025ef, type: 2}
+  - {fileID: 11400000, guid: 18307c6e5e8a36946babdc7b91707e20, type: 2}
+  - {fileID: 11400000, guid: 939a88e9e21ec2148bb62561cb73c1d8, type: 2}
+  - {fileID: 11400000, guid: e37acfc16166c78489eda3e6b32395ad, type: 2}
   LogoEquipo: {fileID: 21300000, guid: d5c69ff9d2966e64497cdbf9bce62b17, type: 3}
   InformacionEquipo: "El Atlas de Guadalajara, establecido en 1916, cuenta con dos
     t\xEDtulos de liga y se enfoca en el desarrollo juvenil, manteniendo una hist\xF3rica
@@ -21,7 +48,7 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: a61cd740c4086664aa7987acd8ed5a19, type: 3}
   Dinero: 55110
   Abreviacion: ATS
-  puntos: 6
+  puntos: 0
   PartidosJugados: 0
   PartidosGanados: 0
   PartidosPerdidos: 0

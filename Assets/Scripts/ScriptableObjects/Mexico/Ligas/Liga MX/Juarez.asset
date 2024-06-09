@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Juarez
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 66a3bc0f8ee419544b70b57e3bd6d03b, type: 2}
+  - {fileID: 11400000, guid: c44ca39dd8faed24a82de66425880895, type: 2}
+  - {fileID: 11400000, guid: 0785c7d7c4f39a64b9a51eb75dce3524, type: 2}
+  - {fileID: 11400000, guid: b379ec43017844344aabd5557f157ce8, type: 2}
+  - {fileID: 11400000, guid: 76c8af9fdac15cd48b16c7dd844f6b03, type: 2}
+  - {fileID: 11400000, guid: 3b0125e1c82e61640b02fcc40f5da468, type: 2}
+  - {fileID: 11400000, guid: 1f9d84496afc2754cb4a64315d646507, type: 2}
+  - {fileID: 11400000, guid: 39833760a2e7fe0479f01455d9722a6e, type: 2}
+  - {fileID: 11400000, guid: 9f90b0d2d1312314b837d8258f39a32a, type: 2}
+  - {fileID: 11400000, guid: 5485ba003f9069645a14204763c9fb9c, type: 2}
+  - {fileID: 11400000, guid: a7a60231d20f4004da279d1f0e821277, type: 2}
+  - {fileID: 11400000, guid: b7e89e484eca03445b3a42ad5d4586d5, type: 2}
+  - {fileID: 11400000, guid: 3713fe43bbb39b346bb4aa1cd164206d, type: 2}
+  - {fileID: 11400000, guid: f34324912ba05ad4e88334507768b777, type: 2}
+  - {fileID: 11400000, guid: 04d1ca278fde9a744a34f35592dfb07e, type: 2}
+  - {fileID: 11400000, guid: 7193d0e5b12b3284683e2753d8e72607, type: 2}
+  - {fileID: 11400000, guid: 54bc9bb6e733a5346a9c9103305915f5, type: 2}
+  - {fileID: 11400000, guid: ba61bca96cbf0404caf48a2b72ebe76a, type: 2}
+  - {fileID: 11400000, guid: 85cf3e5bc3d8ee54eb411ea87f00bf04, type: 2}
+  - {fileID: 11400000, guid: 266c1563b0820ce4daea43761afa684a, type: 2}
+  - {fileID: 11400000, guid: 3cc8a9555825b684e9dd6687c34aa65f, type: 2}
+  - {fileID: 11400000, guid: 973910eca199c0448abb0c27fe7dd630, type: 2}
+  - {fileID: 11400000, guid: dcda19e0b35a9d046b69b2b14c80b752, type: 2}
+  - {fileID: 11400000, guid: 6a9467013832eb548882e6fab4eadd80, type: 2}
+  - {fileID: 11400000, guid: c2d9c062b8c8cd34d80f5d6fef7a51b9, type: 2}
+  - {fileID: 11400000, guid: 8015fb59a514a8c46a565b4065644fac, type: 2}
+  - {fileID: 11400000, guid: 1850f8e05b3672b43a1fc89ea60f0254, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 340fb96af99b11f4a8a3d0c63a29c7e2, type: 3}
   InformacionEquipo: "Ju\xE1rez, establecido en 2015, es uno de los equipos m\xE1s
     j\xF3venes de la liga y busca consolidarse en la primera divisi\xF3n. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 0b5ad6425888e57449f2c439e52d0aad, type: 3}
   Dinero: 19703
   Abreviacion: JUA
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

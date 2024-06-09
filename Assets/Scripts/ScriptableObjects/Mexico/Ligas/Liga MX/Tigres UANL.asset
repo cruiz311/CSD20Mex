@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Tigres UANL
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 55bcffcec77b4224197c7f687d9c5f5c, type: 2}
+  - {fileID: 11400000, guid: 98ec9614f8f1f164493a1bc8d2d3e10c, type: 2}
+  - {fileID: 11400000, guid: f013afc87c60c4240a1a8646fb389096, type: 2}
+  - {fileID: 11400000, guid: 0bcdb8ae237cb394b8f4dc0eae15ec22, type: 2}
+  - {fileID: 11400000, guid: 58ba1cb2c6029b046adee145529f0bf3, type: 2}
+  - {fileID: 11400000, guid: 8e01b19d96b02e34e9be3e978a99699f, type: 2}
+  - {fileID: 11400000, guid: 87f6d2efa627057408a283d073f92ade, type: 2}
+  - {fileID: 11400000, guid: 91c5d652ead58ca4bb20c3dae3bd5697, type: 2}
+  - {fileID: 11400000, guid: c295d50eb56b4b34ebaf0d954a6d3dfd, type: 2}
+  - {fileID: 11400000, guid: ac78066fe811c8644b5270e8723d3100, type: 2}
+  - {fileID: 11400000, guid: e80a27cc05cc57a4c9bce7fb40be7b24, type: 2}
+  - {fileID: 11400000, guid: 2aa687a28d105564284476463125ae1a, type: 2}
+  - {fileID: 11400000, guid: 4d9309934f589084b8dda6b2e9bf6b56, type: 2}
+  - {fileID: 11400000, guid: 739c042f732d05449808c72b89314f7d, type: 2}
+  - {fileID: 11400000, guid: c845cd6ff7468df4e9f148ff2a5e88df, type: 2}
+  - {fileID: 11400000, guid: fca263f0448a6674786d573a5e198fc2, type: 2}
+  - {fileID: 11400000, guid: ab0c6a59e4ed05044be2e8929a7feb61, type: 2}
+  - {fileID: 11400000, guid: 48aa33cf449ece1458239e3428f549e9, type: 2}
+  - {fileID: 11400000, guid: 1ce6834e54115414583a30f1d46fbbc7, type: 2}
+  - {fileID: 11400000, guid: 59ac70b58b7908243b16a0ffbeaa250b, type: 2}
+  - {fileID: 11400000, guid: 8540f9546604e2544965265762d2736f, type: 2}
+  - {fileID: 11400000, guid: f11a774ccada12142a4059f98619acc2, type: 2}
+  - {fileID: 11400000, guid: 9eb88bcea61e7424d96a4628a9f208e5, type: 2}
+  - {fileID: 11400000, guid: 74b36845255f915469748bcbea968f24, type: 2}
+  - {fileID: 11400000, guid: 2adec8c7a8e423e438bbaeecd334f78c, type: 2}
+  - {fileID: 11400000, guid: 2ff720c98665b35458e73bf24ee4f4fb, type: 2}
+  - {fileID: 11400000, guid: 2458472af6c52064e9a3091f8cc2c063, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 0dbf50dd05a876a4bb7b796dffb64b80, type: 3}
   InformacionEquipo: "Los Tigres UANL, desde 1960, con 7 t\xEDtulos de liga, son
     famosos por su rivalidad con Monterrey y sus \xE9xitos nacionales e internacionales. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 5b2a6b3bb46b5e14a80bf570af14bf03, type: 3}
   Dinero: 41615
   Abreviacion: TIG
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

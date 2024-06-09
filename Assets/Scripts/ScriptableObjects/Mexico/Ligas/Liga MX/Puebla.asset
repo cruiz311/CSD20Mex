@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Puebla
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 679630ac5f3b23a4199864691d4bde2c, type: 2}
+  - {fileID: 11400000, guid: 20074b8d4de4841438715b8b6c28c034, type: 2}
+  - {fileID: 11400000, guid: 5101c8f2345f6ff4c980d59c27d86d93, type: 2}
+  - {fileID: 11400000, guid: c53eb5683232a9b4a88fa59d9c62f93c, type: 2}
+  - {fileID: 11400000, guid: 586ae34d319585a4aaaa967a288fd07d, type: 2}
+  - {fileID: 11400000, guid: 9f8df66ee6e69844599317eb48b15150, type: 2}
+  - {fileID: 11400000, guid: 0fe9dc62413684a468ba6008477ff1d6, type: 2}
+  - {fileID: 11400000, guid: 92ccb85f290b30a48b661bbe04421300, type: 2}
+  - {fileID: 11400000, guid: 9fc667ce6c4c84444a32ff225ded0677, type: 2}
+  - {fileID: 11400000, guid: b909e1b2cd4d2af40a7d712e66b7f0a2, type: 2}
+  - {fileID: 11400000, guid: 1da10bba756d1474e80b3b542f1dc32f, type: 2}
+  - {fileID: 11400000, guid: 5869838d22447fd478ad6c52581959af, type: 2}
+  - {fileID: 11400000, guid: 720857dd975090b49a3c0d96c1dbbaf0, type: 2}
+  - {fileID: 11400000, guid: 04c5b9bd2a220d241a8d4bcf647e2237, type: 2}
+  - {fileID: 11400000, guid: a35418ebde0bdb344aeeb9bb40d8542a, type: 2}
+  - {fileID: 11400000, guid: b919653769fbd1b448395425feff3ad7, type: 2}
+  - {fileID: 11400000, guid: da13d7f42923b9d4bb21f9b743334dd8, type: 2}
+  - {fileID: 11400000, guid: 2ac6657359943674783c99f0876f19c3, type: 2}
+  - {fileID: 11400000, guid: 6f93a03e10ab0e649a906123b374fa48, type: 2}
+  - {fileID: 11400000, guid: 0cf580927f1cde24b8fcd2dd7f5db099, type: 2}
+  - {fileID: 11400000, guid: ec5ca32a634c5b740b35e6ee5d7df984, type: 2}
+  - {fileID: 11400000, guid: 4da954b7e1e866549a6558251e36abe2, type: 2}
+  - {fileID: 11400000, guid: fba71614f10b3d44b9a2a06ab6b14271, type: 2}
+  - {fileID: 11400000, guid: 4786eb977de52a148b7a8704454249ce, type: 2}
+  - {fileID: 11400000, guid: 13698439dd7db9940b12341607306f9e, type: 2}
+  - {fileID: 11400000, guid: 18a923ae5ba25a54e8d7a048af9b0559, type: 2}
+  - {fileID: 11400000, guid: e6f752dc267531f449d142bae19867b1, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 9860489cbd4d0334fb99a9891bcc5919, type: 3}
   InformacionEquipo: "Puebla, fundado en 1944, con una afici\xF3n apasionada, ha
     ganado 2 t\xEDtulos de liga y tiene su estadio ic\xF3nico, el Estadio Cuauht\xE9moc. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: e497086f514b8d2428c900c8920bb438, type: 3}
   Dinero: 51726
   Abreviacion: PUE
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

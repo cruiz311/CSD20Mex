@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Queretaro
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: b2df530ff1c059044962ba3cb03b9dca, type: 2}
+  - {fileID: 11400000, guid: 7eefe23064359f643b09ddc69c95a3ef, type: 2}
+  - {fileID: 11400000, guid: 92e764de54c2bf94ea9bb05fc155b016, type: 2}
+  - {fileID: 11400000, guid: d2a21f5bcfe040844a5bd19ffee094f7, type: 2}
+  - {fileID: 11400000, guid: 068859b6c91b9a9439e605a01efcca54, type: 2}
+  - {fileID: 11400000, guid: a173c61ad2e359d4cb5158d3ddaff4a7, type: 2}
+  - {fileID: 11400000, guid: fcef436986b1c32488c665076b167470, type: 2}
+  - {fileID: 11400000, guid: ebf366164e918244f9a0f5eda252c4c0, type: 2}
+  - {fileID: 11400000, guid: 70008bc671483df4daed5e1e7587db75, type: 2}
+  - {fileID: 11400000, guid: b630450a74cbcb440a89fb6e11d8ec82, type: 2}
+  - {fileID: 11400000, guid: 1d5e010248e794d4bbab64e378fb18a6, type: 2}
+  - {fileID: 11400000, guid: 2b556a1e73ba7df418646bf20989a2b3, type: 2}
+  - {fileID: 11400000, guid: 35f8ac23ec4363846901c9e6838d65a5, type: 2}
+  - {fileID: 11400000, guid: 6c034daa38d0d1249935c5308bef1cf0, type: 2}
+  - {fileID: 11400000, guid: f6bd8756ada1b2046baf4f5dbc693819, type: 2}
+  - {fileID: 11400000, guid: be7d83bd90c503c45b7e5b5e3991d79a, type: 2}
+  - {fileID: 11400000, guid: 42290bf49fd071141ae59e19b6221c17, type: 2}
+  - {fileID: 11400000, guid: 5d7d3632588dc7842b42b0316d22ae36, type: 2}
+  - {fileID: 11400000, guid: 11a1584d0550f7241be45ea3097d486a, type: 2}
+  - {fileID: 11400000, guid: fba4948f7bba14f42b895b1ca02b3ffb, type: 2}
+  - {fileID: 11400000, guid: 4f0caaa8b719a3c47b032d86f91fcafd, type: 2}
+  - {fileID: 11400000, guid: 0f1bf58bd7c35ae448a0736e11e5fca0, type: 2}
+  - {fileID: 11400000, guid: d2c22e8ae7c483d4aa74506a3ef6ca5c, type: 2}
+  - {fileID: 11400000, guid: af50319986c026a45b36fa30ca2c9cee, type: 2}
+  - {fileID: 11400000, guid: 5f350d5302eb01040a0714764d8267bc, type: 2}
+  - {fileID: 11400000, guid: d69887a416f310647ae7b59975d11e79, type: 2}
+  - {fileID: 11400000, guid: f1c9bf6aa47456045810c9dc3a2b0b38, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 8f70276a7e63ad24b8aeb4146be337f1, type: 3}
   InformacionEquipo: "El Quer\xE9taro, fundado en 1950, aunque no ha ganado un t\xEDtulo
     de liga, ha sido finalista y es conocido por sus fieles seguidores. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 1b6f9c1c1e4045f4fa77490b09ba8642, type: 3}
   Dinero: 34130
   Abreviacion: QRO
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Monterrey
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: ef37c4f12f091ba4088be5a823960a5e, type: 2}
+  - {fileID: 11400000, guid: f2e62cb8494c89046916ad24e23661cf, type: 2}
+  - {fileID: 11400000, guid: 62ba792fc8aac4d43924fb605e0e56b7, type: 2}
+  - {fileID: 11400000, guid: 1a047d3f35046b34dbe2dcffa7e80c95, type: 2}
+  - {fileID: 11400000, guid: eacba2fad28a5ab458e24c41c4a1004d, type: 2}
+  - {fileID: 11400000, guid: 7239aa3d4264e83458bf42b9484e8fbf, type: 2}
+  - {fileID: 11400000, guid: 7cba49a59d27e58419a13951cc33f144, type: 2}
+  - {fileID: 11400000, guid: 92bcb6f92506c404f99dd74fe899e0c2, type: 2}
+  - {fileID: 11400000, guid: deb9fa35bb7579243bdcdcefa6fdbaba, type: 2}
+  - {fileID: 11400000, guid: 99f6d819fa7031248b292bd88be05d50, type: 2}
+  - {fileID: 11400000, guid: 98e4e374adb1a7c488a40d61ea72e122, type: 2}
+  - {fileID: 11400000, guid: 5e46764b4ee4e594181e11414cd34550, type: 2}
+  - {fileID: 11400000, guid: 468c8f110a077d54ba9dc4776d442bd8, type: 2}
+  - {fileID: 11400000, guid: 795a2204bc39f0249b1b5c452859529e, type: 2}
+  - {fileID: 11400000, guid: ab5e2d1e75010084f981dec4e0ce759c, type: 2}
+  - {fileID: 11400000, guid: 42854d09a307ad54a96ffe3fb59aa3b9, type: 2}
+  - {fileID: 11400000, guid: 366a01c36176684458a56f7db4fb34f8, type: 2}
+  - {fileID: 11400000, guid: c6da1639da6de504f866310ebea96d11, type: 2}
+  - {fileID: 11400000, guid: 04620663e26a2d442aa1a8bb0b6b6567, type: 2}
+  - {fileID: 11400000, guid: 4dcb74bb308adc84d94daddf3d13ac4c, type: 2}
+  - {fileID: 11400000, guid: 31484f86311129c44953aa4fbc7ad801, type: 2}
+  - {fileID: 11400000, guid: 1bfa3638c2bd33c459769f8f4b096d69, type: 2}
+  - {fileID: 11400000, guid: 9719c9265e14f8b4d85a8be991003b55, type: 2}
+  - {fileID: 11400000, guid: ba0dc48d45c13f9469d89b19dcb995b7, type: 2}
+  - {fileID: 11400000, guid: a01451621790882409d36df1f735aa98, type: 2}
+  - {fileID: 11400000, guid: 9e2eec5c0750fe547934638f529ad58f, type: 2}
+  - {fileID: 11400000, guid: 7172d02ce177d50448252687a94cf3f1, type: 2}
   LogoEquipo: {fileID: 21300000, guid: bdfe5dcba1a57b5439f5a4dd39ceaab2, type: 3}
   InformacionEquipo: "Monterrey, desde 1945, ha ganado 5 t\xEDtulos de liga y destaca
     por su fuerte inversi\xF3n y rivalidad con Tigres en el Cl\xE1sico Regio. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 5725fb17021f4cf4aafc0586ab0d38db, type: 3}
   Dinero: 53500
   Abreviacion: MON
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

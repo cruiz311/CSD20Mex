@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Toluca
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: d462fc595aee0504ea8ee20f5929cf15, type: 2}
+  - {fileID: 11400000, guid: 1d0d5025522566142943be9eac63f2a6, type: 2}
+  - {fileID: 11400000, guid: ce93cadd60bafd04b83eb6ce19dcb286, type: 2}
+  - {fileID: 11400000, guid: 46dff00fb1cc73b4daebd9e787210dc7, type: 2}
+  - {fileID: 11400000, guid: 3c6dd98b7987a4f4d859f54879998954, type: 2}
+  - {fileID: 11400000, guid: 0baa7750ef7949242a1c0f89f8f0ce8c, type: 2}
+  - {fileID: 11400000, guid: 718e8909915b60248b9930ae6f80fbb0, type: 2}
+  - {fileID: 11400000, guid: 636395bee17b08945b30a62d17986f67, type: 2}
+  - {fileID: 11400000, guid: b6828d889f1b73541acb89cfe8e7d86e, type: 2}
+  - {fileID: 11400000, guid: c50aa3a169f62d54c9feac5f06c1b057, type: 2}
+  - {fileID: 11400000, guid: e2292552b0acce841b5339b724a9bd82, type: 2}
+  - {fileID: 11400000, guid: 51fd334f6e53d9d45aba02cf4aed7489, type: 2}
+  - {fileID: 11400000, guid: bf333004dad5a5c4da79b3ad00cdca6c, type: 2}
+  - {fileID: 11400000, guid: 5cc575ef9583ffe4d9126173a3a782b8, type: 2}
+  - {fileID: 11400000, guid: 04c42b7caab1a9144b36d47c11822cb5, type: 2}
+  - {fileID: 11400000, guid: 81d934659844404488380e37d2812b24, type: 2}
+  - {fileID: 11400000, guid: 38d4f37b4b8dbc849902b62292d170c0, type: 2}
+  - {fileID: 11400000, guid: 8ecd529d81a75934c96bf9eb887465c7, type: 2}
+  - {fileID: 11400000, guid: 85b2bc201a11a844aa6438e747bb4ab3, type: 2}
+  - {fileID: 11400000, guid: 62fd90c931f71cd4788f999003cfcd9c, type: 2}
+  - {fileID: 11400000, guid: 37eec057a6e80694098e2cff4c78d249, type: 2}
+  - {fileID: 11400000, guid: 7a85a08e5647d1d44af8cee7d9e774f1, type: 2}
+  - {fileID: 11400000, guid: 963ac10241d50cb4d889b00595397fbd, type: 2}
+  - {fileID: 11400000, guid: e4a36f6ad0e49f842be859850206993e, type: 2}
+  - {fileID: 11400000, guid: 0b56747eeaed9e340a0448f72672f706, type: 2}
+  - {fileID: 11400000, guid: 2cb2f166195ab0e478cf61f45588f9be, type: 2}
+  - {fileID: 11400000, guid: 400ae0a56640f634caef7b8b630df5c6, type: 2}
   LogoEquipo: {fileID: 21300000, guid: e3d581898adafbb488231f0780222ba8, type: 3}
   InformacionEquipo: "El Toluca, desde 1917, uno de los clubes m\xE1s exitosos, con
     10 t\xEDtulos de liga, es una fuerza en el f\xFAtbol mexicano."
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 96cb76214ada0f148824e8f9ed0713d9, type: 3}
   Dinero: 30000
   Abreviacion: TOL
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Cruz Azul
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: b34a1839bea0286468e6f7f89a105c83, type: 2}
+  - {fileID: 11400000, guid: 98f6fd53687f9c849a3eacc2a46d91e7, type: 2}
+  - {fileID: 11400000, guid: 7de473b3217ccb841950f25e10e9f013, type: 2}
+  - {fileID: 11400000, guid: 335274df52e8e6b438127550c92cc858, type: 2}
+  - {fileID: 11400000, guid: 63f30765b120a8f468ac6d503c590561, type: 2}
+  - {fileID: 11400000, guid: 355cf18d862559641be82fe30c314aa7, type: 2}
+  - {fileID: 11400000, guid: 72367139c9b921c49a9e58b86fa5a3d1, type: 2}
+  - {fileID: 11400000, guid: a296a7a1e5396f24ca342f0f99c52e33, type: 2}
+  - {fileID: 11400000, guid: 455c707b535f88b44bc0dde8694263bc, type: 2}
+  - {fileID: 11400000, guid: 7a3db2739e773e14893074e3617fe036, type: 2}
+  - {fileID: 11400000, guid: a9eea212bfafcf14b93406abed479c00, type: 2}
+  - {fileID: 11400000, guid: 81982cb3b0c25464ea4cababe66ee653, type: 2}
+  - {fileID: 11400000, guid: 1366f502a929f3748b41b435e26e6ce7, type: 2}
+  - {fileID: 11400000, guid: 3d292c0026c47504c991ac4922b4871e, type: 2}
+  - {fileID: 11400000, guid: 03ae964bd39137044b6c3f94b5b279db, type: 2}
+  - {fileID: 11400000, guid: 8ebe25d401b90a34d944878ea1cb5c4e, type: 2}
+  - {fileID: 11400000, guid: 62d0d7fef03d2084e96d07f2404f145e, type: 2}
+  - {fileID: 11400000, guid: c96c5c673eb197a499d67e1f3b08a556, type: 2}
+  - {fileID: 11400000, guid: c34b2c3fed6978a4cbf5d50a8462a5e4, type: 2}
+  - {fileID: 11400000, guid: e719d765e7b42b241808f0ed3a486d96, type: 2}
+  - {fileID: 11400000, guid: c91c750bb7ee5bb40bad66d80d897dbb, type: 2}
+  - {fileID: 11400000, guid: 8c53d3040f24fa046a6d1cd03c948631, type: 2}
+  - {fileID: 11400000, guid: 16b9daa8b6e5e3d4a91adfb4b86a0c07, type: 2}
+  - {fileID: 11400000, guid: ba196e1d1cbcfcc4d861ed20dc9abade, type: 2}
+  - {fileID: 11400000, guid: e3e4e9e05c9390a459f34da8dcdf2d10, type: 2}
+  - {fileID: 11400000, guid: e5c88ba232b5659479b7f5308a3dd062, type: 2}
+  - {fileID: 11400000, guid: ca158894efacf4349a8fedc11eebd251, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 38c5ac1e29b0c4c45b711f08adc01678, type: 3}
   InformacionEquipo: "Cruz Azul, desde su fundaci\xF3n en 1927, ha ganado 9 t\xEDtulos
     de liga y es conocido por romper su \"maldici\xF3n\" en 2021. "
@@ -20,3 +47,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: d7b3c9b6a59c8f3459c58a460c670803, type: 3}
   Dinero: 87523
   Abreviacion: CAZ
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

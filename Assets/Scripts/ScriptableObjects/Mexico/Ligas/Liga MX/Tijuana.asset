@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Tijuana
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: d757f66fada31b8428411534dbf84a43, type: 2}
+  - {fileID: 11400000, guid: f7c0dd8f6fc4e5c4a84edf742480830e, type: 2}
+  - {fileID: 11400000, guid: 8095d169a8ea4ba428e6a8e997cb0d38, type: 2}
+  - {fileID: 11400000, guid: d59164e1f84d8dc48ab991cedda80c94, type: 2}
+  - {fileID: 11400000, guid: 05d42add55ae4ee41ad6966630b8aec9, type: 2}
+  - {fileID: 11400000, guid: 2aab55ad6a1a72e4483631ab46acd5c9, type: 2}
+  - {fileID: 11400000, guid: ab6da89b12b516d409edc597222ac445, type: 2}
+  - {fileID: 11400000, guid: 62ad983ec9c8de04b92d00d64ba84876, type: 2}
+  - {fileID: 11400000, guid: b94de27d529d2dc41be511ab207d4b57, type: 2}
+  - {fileID: 11400000, guid: 48aa32e9f32a686439105231e346f234, type: 2}
+  - {fileID: 11400000, guid: 8ff8b0f7623b06747a3a8f1551424c0b, type: 2}
+  - {fileID: 11400000, guid: c86a78f0be16f9a40931fe2739d24fdc, type: 2}
+  - {fileID: 11400000, guid: fd83b75c357f05f44b9be48c19035567, type: 2}
+  - {fileID: 11400000, guid: 910a4b45d9441a74ab089bde43a65102, type: 2}
+  - {fileID: 11400000, guid: 2133259a3d82bec42883528b0a95d116, type: 2}
+  - {fileID: 11400000, guid: e78f41e527126104d87ce52c2b62660a, type: 2}
+  - {fileID: 11400000, guid: ad563d0eeebe06e4a833e53b3a892606, type: 2}
+  - {fileID: 11400000, guid: 4199c964263dca34c80dcfb09addf6a1, type: 2}
+  - {fileID: 11400000, guid: c55289ddf014b984992337f9766a56d9, type: 2}
+  - {fileID: 11400000, guid: e06a49fde75fb154e8fa422667025ddf, type: 2}
+  - {fileID: 11400000, guid: bc45cba3cf9dad64cac004fcca31a376, type: 2}
+  - {fileID: 11400000, guid: 6fe1ed12add4bb645bbbca464f322e61, type: 2}
+  - {fileID: 11400000, guid: a6080d2535017c44083576e9383b0a96, type: 2}
+  - {fileID: 11400000, guid: 90e0ad696b7a35043b51e6662468d067, type: 2}
+  - {fileID: 11400000, guid: 6e6c8880b58f96c4fa51ec4a7001df61, type: 2}
+  - {fileID: 11400000, guid: 34ce16760acc05b46922d94cca5fd356, type: 2}
+  - {fileID: 11400000, guid: 1bc2343f12cd8f44eba5dd3dae8b0828, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 3b7de2b4affcaac4db8c0d0569bc9737, type: 3}
   InformacionEquipo: "El Club Tijuana, desde 2007, ganador de 1 t\xEDtulo de liga
     en 2012, es conocido por su afici\xF3n apasionada y su proximidad a la frontera
@@ -21,3 +48,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 06db76095f11c88458520a1d8c0fbc57, type: 3}
   Dinero: 27333
   Abreviacion: TIJ
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0

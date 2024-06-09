@@ -12,7 +12,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f6a04c83c0489e41bad511de0c6a5c2, type: 3}
   m_Name: Guadalajara
   m_EditorClassIdentifier: 
-  Plantel: []
+  Plantel:
+  - {fileID: 11400000, guid: 0aab0e4f309108e4e88439b06d106957, type: 2}
+  - {fileID: 11400000, guid: 22390fc5cf0c9d844b3129b29e6418e2, type: 2}
+  - {fileID: 11400000, guid: ba2643b812a5fd1419dc90f73df654db, type: 2}
+  - {fileID: 11400000, guid: 5bb81844feeae424cb42404308495d44, type: 2}
+  - {fileID: 11400000, guid: 90acf8bfe9ebc164a804fba68d7827cc, type: 2}
+  - {fileID: 11400000, guid: 75dbc26f74b64954184f3c5e74326483, type: 2}
+  - {fileID: 11400000, guid: eff370f1773c75648b6a9f5de8e89520, type: 2}
+  - {fileID: 11400000, guid: 851f7a299a98919478156bffbfa231f5, type: 2}
+  - {fileID: 11400000, guid: b092fbe903161624cb6d8482c3c1ec27, type: 2}
+  - {fileID: 11400000, guid: eb734b3389dfc2943a655304413e9c1f, type: 2}
+  - {fileID: 11400000, guid: cfaddf195f7acdd42ac76b76744c34d5, type: 2}
+  - {fileID: 11400000, guid: af9df851cf20f7c4e8bd8dbfea8067d8, type: 2}
+  - {fileID: 11400000, guid: 5987afbab0cb4df48b9e0558a6d492c8, type: 2}
+  - {fileID: 11400000, guid: 32ef35019df6bc0489f4686340f94592, type: 2}
+  - {fileID: 11400000, guid: 1dc779243a421e647be5cf93eb7fc20a, type: 2}
+  - {fileID: 11400000, guid: dd9ea591b19a5774c9f9aacd237c2988, type: 2}
+  - {fileID: 11400000, guid: 79f43294909ce4e4381d662db47a6461, type: 2}
+  - {fileID: 11400000, guid: f7a9a8ba41a40b44d831804b477dea20, type: 2}
+  - {fileID: 11400000, guid: 405b7f4752c094a448b89def7e397263, type: 2}
+  - {fileID: 11400000, guid: 4724f44d231d3754aad32cb2afc06edb, type: 2}
+  - {fileID: 11400000, guid: da215e3290033794fb21f86a759a38e2, type: 2}
+  - {fileID: 11400000, guid: 959def3bfafa58a47b40bb8d8d75639c, type: 2}
+  - {fileID: 11400000, guid: a45a3b71d729cc847819e07af7bb40b0, type: 2}
+  - {fileID: 11400000, guid: e8bf3704910d74849b5017063d4908b2, type: 2}
+  - {fileID: 11400000, guid: 7261ab5474ed62047bd2955de4bf278e, type: 2}
+  - {fileID: 11400000, guid: 8b888b69bf759054b999b3cc07d0d5a6, type: 2}
+  - {fileID: 11400000, guid: 3144059c0c4af334bb21fb50d14117cb, type: 2}
   LogoEquipo: {fileID: 21300000, guid: 0dfd24603ffa84e4e93fbbb1a6de7e35, type: 3}
   InformacionEquipo: "Las Chivas de Guadalajara, fundadas en 1906, tienen 12 t\xEDtulos
     de liga y una pol\xEDtica de solo jugadores mexicanos, con una fuerte rivalidad
@@ -21,3 +48,11 @@ MonoBehaviour:
   SpriteEstadio: {fileID: 21300000, guid: 93b1ee813fac3cc45a75325f5d4759a1, type: 3}
   Dinero: 46232
   Abreviacion: CHI
+  puntos: 0
+  PartidosJugados: 0
+  PartidosGanados: 0
+  PartidosPerdidos: 0
+  PartidosEmpatados: 0
+  GolesAnotados: 0
+  GolesRecibidos: 0
+  DiferenciaGoles: 0
